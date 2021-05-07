@@ -1,0 +1,2 @@
+# baguscoin
+My Mine
