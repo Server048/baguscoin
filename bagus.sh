@@ -16,3 +16,21 @@ echo -e "\e[1m Xrig Coin By Server048"
 echo
 echo -e "\e[1m\e[32m Developed by :\e[33m Server048 (8h4i)"
 z="
+
+try:
+	
+	import mechanize, requests, random, sys, os, re
+	from time import sleep
+	from cookielib import LWPCookieJar as Cookie
+	from requests.exceptions import ConnectionError
+
+	os.system('clear')
+
+	def Tik(s):
+		for i in s + '\n':
+			sys.stdout.write(i)
+			sys.stdout.flush()
+			sleep(random.random() * 0.0010)
+      
+      
+      figlet -f big lol | lolcat
