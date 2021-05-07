@@ -1,3 +1,5 @@
+#!/sh
+
 apt update
 apt upgrade
 apt install figlet -y
